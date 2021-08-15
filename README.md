@@ -1,6 +1,6 @@
 # Random Keyboard Mouse
 
-Trigger keyboard and mouse randomly
+Trigger keyboard and mouse randomly in Windows.
 
 -------------
 
@@ -12,14 +12,14 @@ Trigger keyboard and mouse randomly
 
 ## Advance Usage
 
-### Configure/Modification
+### Configuration/Modification
 
 ##### _*Note*_: If you don't know the `batch` script programming language, then avoid changing anything.
 
 * Open `start.bat` in any text-editor.
 * On line #9 - `Set "CommList=Move Key...`, Just add or remove commands as per your requirement.
 * Put `<space>` to separate the commands.
-* All mentioned commands will be executed in sequence.
+* All mentioned commands will be executed in sequence and will be looped.
 * Ex. `Set "CommList=Move LeftClick Key Key Move RightClick Move LeftClick Key"`
 
 #### Here is the list of available commands:
