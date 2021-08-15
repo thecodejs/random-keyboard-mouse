@@ -43,10 +43,10 @@ ScrollDown
 ## License
 #### MIT License. See `LICENSE` file for more info.
 
-________
 --------
-##### Author
-##### Alauddin Ansari (alauddinx27@gmail.com)
-##### August 15, 2021
-
+```
+Author
+Alauddin Ansari (alauddinx27@gmail.com)
+August 15, 2021
+```
 
